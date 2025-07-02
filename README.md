@@ -9,3 +9,4 @@ Yeni özellik tasarlandı.
 Dokümantasyon güncellendi.
 Kullanıcı arayüzü düzenlendi.
 Test senaryoları eklendi.
+Son düzenlemeler yapıldı.
