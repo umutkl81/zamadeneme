@@ -7,3 +7,4 @@ Hata düzeltmeleri yapıldı.
 Performans iyileştirmeleri yapıldı.
 Yeni özellik tasarlandı.
 Dokümantasyon güncellendi.
+Kullanıcı arayüzü düzenlendi.
