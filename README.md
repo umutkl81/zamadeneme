@@ -10,3 +10,4 @@ Dokümantasyon güncellendi.
 Kullanıcı arayüzü düzenlendi.
 Test senaryoları eklendi.
 Son düzenlemeler yapıldı.
+Yeni satır
