@@ -6,3 +6,4 @@ README dosyasına proje açıklaması eklendi.
 Hata düzeltmeleri yapıldı.
 Performans iyileştirmeleri yapıldı.
 Yeni özellik tasarlandı.
+Dokümantasyon güncellendi.
