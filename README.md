@@ -4,3 +4,4 @@ Proje başlangıcı yapıldı.
 README dosyasına proje açıklaması eklendi.
 İlk fonksiyon eklendi.
 Hata düzeltmeleri yapıldı.
+Performans iyileştirmeleri yapıldı.
